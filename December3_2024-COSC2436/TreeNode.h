@@ -16,7 +16,6 @@ public:
 	TreeNode<T>* right;
 
 
-
 	TreeNode()
 	{
 
